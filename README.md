@@ -2,7 +2,7 @@
 
 > 🚀 Explorador da tecnologia, transformando café ☕ em código funcional.  
 
-Sou alguém que decidiu virar a página e mergulhar no mundo da programação. De Policial Militar para **desenvolvedor de software**, buscando criar soluções reais e aprender todos os dias.
+Sou alguém que decidiu virar a página e mergulhar no mundo da programação. De Policial Militar para **Analista de Dados**, buscando criar soluções reais e aprender todos os dias.
 
 ---
 
