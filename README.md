@@ -11,15 +11,17 @@ De Policial Militar para Analista de Dados, estou construindo uma nova jornada f
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
-📊 Skills em Nível 🔥
 
-Python (Pandas) | ████████ 80%
-SQL (MySQL / SQL Server / PostgreSQL) | ████████ 80%
-Power BI | ████████ 80%
-Excel Avançado | ███████ 70%
-Java / HTML / CSS / JS | ███████ 70%
-Git & GitHub | ████████ 80%
-Metodologias Ágeis (Scrum/Kanban) | ███████ 75%
+## 📊 Skills em Nível 🔥
+
+- 🐍 **Python (Pandas, NumPy, Matplotlib)** — 80%  
+- 🗄️ **SQL (MySQL / SQL Server / PostgreSQL)** — 80%  
+- 📊 **Power BI** — 80%  
+- 📑 **Excel Avançado** — 70%  
+- ☕ **Java / HTML / CSS / JS** — 70%  
+- 🌐 **Git & GitHub** — 80%  
+- 📌 **Metodologias Ágeis (Scrum/Kanban)** — 75%  
+
 
 🌱 Minha Jornada
 
