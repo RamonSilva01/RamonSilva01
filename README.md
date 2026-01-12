@@ -18,7 +18,7 @@ De Policial Militar para Analista de Dados, estou construindo uma nova jornada f
 - 🗄️ **SQL (MySQL / SQL Server / PostgreSQL)** — 80%  
 - 📊 **Power BI** — 80%  
 - 📑 **Excel Avançado** — 70%  
-- ☕ **Java / HTML / CSS / JS** — 70%  
+- ☕ **HTML / CSS / JS** — 70%  
 - 🌐 **Git & GitHub** — 80%  
 - 📌 **Metodologias Ágeis (Scrum/Kanban)** — 75%  
 
